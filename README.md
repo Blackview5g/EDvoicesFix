@@ -43,6 +43,11 @@ The Python script intercepts the original game logs, strips out redundant heavy 
 * **After (Works Perfectly):**
   `{ "timestamp":"2026-04-27T18:49:51Z", "event":"FSDJump", "SystemAllegiance":"Alliance", "FuelUsed":6.711556, "FuelLevel":121.288445 }`
 
+  **Дисклеймер / Disclaimer:**
+*   Данная программа является независимым фанатским проектом. Она никак не связана с Frontier Developments plc, не поддерживается ими, а все права на Elite Dangerous принадлежат Frontier Developments.
+*   Программа EDvoicesFix создана исключительно для исправления ошибок взаимодействия и распространяется «как есть» (as is). Автор не связан с разработчиками оригинальной утилиты EDvoices.exe. 
+*   Используйте на свой страх и риск. Автор не несет ответственности за возможные сбои в работе стороннего ПО, утерянные внутриигровые данные или Анаконду, сгоревшую в лучах белой карликовой звезды.
+
 ## License / Лицензия
 
 This project is licensed under the **MIT License** - see the `LICENSE` file for details.
